@@ -1,3 +1,5 @@
+import './style.css';
+
 let value = document.getElementById("value");
 let power = document.getElementById("power");
 
